@@ -1,5 +1,5 @@
 ## Tools
-- TailwindCSS v3.3
-- AstroJs           |
+- TailwindCSS
+- Astro
 
 
